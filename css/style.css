@@ -1,0 +1,300 @@
+body {
+    background-color: #FAF9FD;
+}
+
+/* creative IT */
+
+/* cards-parent */
+
+.cards {
+    margin-left: 50px;
+    width: auto;
+}
+
+.cards img {
+    width: 100%;
+    border-radius: 32px
+}
+
+.cards h2 {
+    font-size: 23px;
+}
+
+.cards span {
+    color: #787A82;
+    margin: 0 40px 0 0;
+}
+
+
+
+.cards h4 {
+    color: #DF6812;
+
+}
+
+.cards p {
+    color: #434242;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 30px 10px 20px 0;
+}
+
+.cards a {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #8c0000;
+    border: 1px solid #ff7e31;
+    padding: 7px;
+    border-radius: 10px;
+    transition: .7s;
+}
+
+.cards a:hover {
+    background-color: #ff7e31;
+    color: #fff;
+}
+
+/* cards-children */
+.c1 {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 32px;
+    width: 19%;
+    padding: 15px;
+    box-sizing: border-box;
+    font-family: arial;
+
+}
+
+.c2 {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 32px;
+    width: 19%;
+    padding: 15px;
+    box-sizing: border-box;
+    font-family: arial;
+
+}
+
+.c3 {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 32px;
+    width: 19%;
+    padding: 15px;
+    box-sizing: border-box;
+    font-family: arial;
+
+}
+
+.c4 {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 32px;
+    width: 19%;
+    padding: 15px;
+    box-sizing: border-box;
+    font-family: arial;
+
+
+}
+
+.c5 {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 32px;
+    width: 19%;
+    padding: 15px;
+    box-sizing: border-box;
+    font-family: arial;
+
+}
+
+/* Amazon */
+
+/* cards1-parent */
+
+.cards1 {
+    width: auto;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.cards1 img {
+    width: 100%;
+    border-radius: 32px
+}
+
+.cards1 a {
+    display: inline-block;
+    color: #007185;
+    text-decoration: none;
+}
+
+.cards1 a:hover {
+    color: #D2511F;
+}
+
+.cards1 p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* cards1-children */
+
+.c6 {
+    display: inline-block;
+    background-color: #fff;
+    width: 19%;
+    border-radius: 32px;
+    padding: 15px;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+.c7 {
+    display: inline-block;
+    background-color: #fff;
+    width: 19%;
+    border-radius: 32px;
+    padding: 15px;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+.c7 img {
+    height: 319.02px;
+}
+
+.c8 {
+    display: inline-block;
+    background-color: #fff;
+    width: 19%;
+    border-radius: 32px;
+    padding: 15px;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+.c9 {
+    display: inline-block;
+    background-color: #fff;
+    width: 19%;
+    border-radius: 32px;
+    padding: 15px;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+.c10 {
+    display: inline-block;
+    background-color: #fff;
+    width: 19%;
+    border-radius: 32px;
+    padding: 15px;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+/* Fiverr blog */
+
+/* cards2-parent */
+
+.cards2 {
+    width: auto;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.cards2 img {
+    width: 100%;
+    border-radius: 32px;
+}
+
+.cards2 p {
+    color: #7A7D85;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+
+.cards2 a {
+    display: inline-block;
+    padding-top: 20px;
+    color: #1DBF73;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.cards2 h1 {
+    font-size: 20px;
+    color: #404145;
+    line-height: 30px;
+}
+
+/* cards2-children */
+
+.c11 {
+    display: inline-block;
+    background-color: #fff;
+    width: 19%;
+    border-radius: 32px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.c12 {
+    display: inline-block;
+    background-color: #fff;
+    width: 19%;
+    height: 547.14px;
+    border-radius: 32px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.c13 {
+    display: inline-block;
+    background-color: #fff;
+    width: 19%;
+    height: 547.14px;
+    border-radius: 32px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.c14 {
+    display: inline-block;
+    background-color: #fff;
+    width: 19%;
+    border-radius: 32px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.c14 img {
+    height: 211.76px;
+}
+
+.c15 {
+    display: inline-block;
+    background-color: #fff;
+    width: 19%;
+    border-radius: 32px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.c15 img {
+    height: 211.76px;
+}
